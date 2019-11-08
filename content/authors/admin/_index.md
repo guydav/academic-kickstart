@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/2019_06_Two_Page_CV.pdf
+  link: files/guy_davidson_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "guy.davidson@nyu.edu"
