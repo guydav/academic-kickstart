@@ -1,17 +1,26 @@
 @article{DavidsonMozer2019,
-abstract = {We explore the behavior of a standard convolutional neural net in a setting that introduces classification tasks sequentially and requires the net to master new tasks while preserving mastery of previously learned tasks. This setting corresponds to that which human learners face as they acquire domain expertise, for example, as an individual reads a textbook chapter-by-chapter. Through simulations involving sequences of ten related tasks, we find reason for optimism that nets will scale well as they advance from having a single skill to becoming domain experts. We observed two key phenomena. First, _forward facilitation_---the accelerated learning of task n+1 having learned n previous tasks---grows with n. Second, _backward interference_---the forgetting of the n previous tasks when learning task n+1---diminishes with n. Amplifying forward facilitation is the goal of research on metalearning, and attenuating backward interference is the goal of research on catastrophic forgetting. We find that both of these goals are attained simply through broader exposure to a domain.},
+abstract = {We explore the behavior of a standard convolutional neural net in a continual-learning setting that introduces visual classification tasks sequentially and requires the net to master new tasks while preserving mastery of previously learned tasks. This setting corresponds to that which human learners face as they acquire domain expertise serially, for example, as an individual studies a textbook.
+Through simulations involving sequences of ten related visual tasks, we find reason for optimism that nets will scale well as they advance from having a single skill to becoming multi-skill domain experts. We observe two key phenomena.
+First, _forward facilitation_---the accelerated learning of task n+1 having learned n previous tasks---grows with n.
+Second, _backward interference_---the forgetting of the n previous tasks when learning task n+1---diminishes with n.
+Amplifying forward facilitation is the goal of research on metalearning, and attenuating backward interference is the goal of research on catastrophic forgetting.
+We find that both of these goals are attained simply through broader exposure to a domain.},
 archivePrefix = {arXiv},
 arxivId = {1905.10837},
 author = {Davidson, Guy and Mozer, Michael C.},
 eprint = {1905.10837},
 month = {may},
-title = {{Sequential mastery of multiple tasks: Networks naturally learn to learn
+title = {{Sequential mastery of multiple visual tasks: Networks naturally learn to learn and forget to forget
 }},
 url = {https://arxiv.org/abs/1905.10837},
 year = {2019}
 }
 
 @inproceedings{DavidsonRadulescu2019,
+abstract = {Previous work has shown that cognitive models incorporating passive decay of the values of unchosen features explained choice data from a human representation learning task better than competing models (Niv et al. 2015). More recently, models that assume attention-weighted reinforcement learning were shown to predict the data equally well on average (Leong, Radulescu et al. 2017).
+We investigate whether the two models, which suggest different mechanisms for implementing representation learning, explain the same aspect of the data, or different, complementary aspects. We show that combining the two models improves the overall average fit, suggesting that these two mechanisms explain separate components of variance in participant choices.
+Employing a trial-by-trial analysis of differences in choice likelihood, we show that each model helps explain different trials depending on the progress a participant has made in learning the task. We find that attention-weighted learning predicts choice substantially better in trials immediately following the point at which the participant has successfully learned the task, while passive decay better accounts for choices in trials further into the future relative to the point of learning.
+We discuss this finding in the context of a transition at the ``point of learning'' between explore and exploit modes, which the decay model fails to identify, while the attention-weighted model successfully captures despite not explicitly modeling it.},
 address = {Montreal, Canada},
 author = {Davidson, Guy and Radulescu, Angela and Niv, Yael},
 booktitle = {The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making},
@@ -22,6 +31,14 @@ year = {2019}
 }
 
 @inproceedings{BennettDavidson2019,
+abstract = {Policy-gradient reinforcement learning (RL) algorithms have recently been successfully applied in a number of domains.
+In spite of this success, however, relatively little work has explored the implications of policy-gradient RL as a model of  human learning and decision making.
+In this project, we derive two new policy-gradient algorithms that have implications as models of human behaviour: TD(λ) Actor-Critic with Momentum, and TD(λ) Actor-Critic with Mood.
+For the first algorithm, we review the concept of momentum in stochastic optimization theory, and show that it can be readily implemented in a policy-gradient RL setting.
+This is useful because momentum can accelerate policy gradient RL by filtering out high-frequency noise in parameter updates, and possibly also by conferring robustness against convergence to local maxima in the algorithm’s objective function.
+For the second algorithm, we show that a policy-gradient RL agent can implement an approximation to momentum in part by maintaining a representation of its own mood.
+As a proof of concept, we show that both of these new algorithms outperform a simpler algorithm that has neither momentum nor mood in a standard RL testbed, the 10-armed bandit problem.
+We discuss the implications of the mood algorithm as a model of the feedback between mood and learning in human decision making.},
 address = {Montreal, Canada},
 author = {Bennett, Daniel and Davidson, Guy and Niv, Yael},
 booktitle = {The 4th Multidisciplinary Conference on Reinforcement Learning and Decision Making},
@@ -29,4 +46,19 @@ pages = {57--61},
 title = {{Momentum and mood in policy-gradient reinforcement learning}},
 url = {http://rldm.org/papers/extendedabstracts.pdf},
 year = {2019}
+}
+
+@article{DavidsonLake2020,
+ abstract = {We explore the benefits of augmenting state-of-the-art model-free deep reinforcement algorithms with simple object representations.
+ Following the Frostbite challenge posited by Lake et al. (2017), we identify object representations as a critical cognitive capacity lacking from current reinforcement learning agents.
+ We discover that providing the Rainbow model (Hessel et al., 2018) with simple, feature-engineered object representations substantially boosts its performance on the Frostbite game from Atari 2600.
+ We then analyze the relative contributions of the representations of different types of objects, identify environment states where these representations are most impactful, and examine how these representations aid in generalizing to novel situations.},
+ archiveprefix = {arXiv},
+ arxivid = {2002.06703},
+ author = {Davidson, Guy and Lake, Brenden M.},
+ eprint = {2002.06703},
+ month = {feb},
+ title = {Investigating Simple Object Representations in Model-Free Deep Reinforcement Learning},
+ url = {https://arxiv.org/abs/2002.06703},
+ year = {2020}
 }
