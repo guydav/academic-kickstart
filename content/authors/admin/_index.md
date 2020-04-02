@@ -18,12 +18,12 @@ organizations:
   url: "https://cds.nyu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Data Science by day, avid cook and Ultimate Frisbee player by night. 
+bio: PhD student in Data Science by day, avid cook and Ultimate Frisbee player by night.
 
 interests:
 - Cognitively-inspired machine learning
 - Multitask / meta / continual learning
-- Deep learning
+- Deep reinforcement learning
 
 education:
   courses:
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:guy.davidson@nyu.edu" 
+  link: "mailto:guy.davidson@nyu.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/guyd33
@@ -62,7 +62,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "guy.davidson@nyu.edu"
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 # user_groups:
@@ -70,6 +70,6 @@ email: "guy.davidson@nyu.edu"
 # - Visitors
 ---
 
-I'm a PhD student with the NYU Center for Data Science. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. I'm also interested in the more human-like learning that happens when we expose a model to multiple tasks -- continual learning and metalearning. 
+I'm a PhD student with the NYU Center for Data Science. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. I'm also interested in the more human-like learning that happens when we expose a model to multiple tasks -- continual learning and metalearning.
 
 When I am not in the lab, I enjoy playing ultimate frisbee, cooking various meat dishes, and reading (primarily fantasy, sci-fi, and nonfiction).
