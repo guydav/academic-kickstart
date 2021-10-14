@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+# title = "Accomplish&shy;ments"
+title = "Summer&shy;Schools"
 subtitle = ""
 
 # Date format
@@ -19,13 +20,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "CBMM"
+  organization_url = "https://cbmm.mit.edu/"
+  title = "Brains, Minds, and Machines Summer Course"
+  url = "https://cbmm.mit.edu/summer-school/2021"
+  certificate_url = ""
+  date_start = "2021-08-05"
+  date_end = "2021-08-26"
+  description = "Attended the 2021 Brains, Minds, and Machines summer course in Woods Hole, MA."
+
+[[item]]
   organization = "MLSS"
   organization_url = "https://www.mlss.cc"
   title = "Machine Learning Summer School"
   url = "https://sites.google.com/view/mlss-2019"
   certificate_url = ""
   date_start = "2019-07-15"
-  date_end = ""
+  date_end = "2019-07-26"
   description = "Attended the July 2019 MLSS in London, England."
 
 +++

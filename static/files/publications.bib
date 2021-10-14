@@ -1,4 +1,4 @@
-@article{DavidsonMozer2020,
+@inproceedings{DavidsonMozer2020,
 abstract = {We explore the behavior of a standard convolutional neural net in a continual-learning setting that introduces visual classification tasks sequentially and requires the net to master new tasks while preserving mastery of previously learned tasks. This setting corresponds to that which human learners face as they acquire domain expertise serially, for example, as an individual studies a textbook.
 Through simulations involving sequences of ten related visual tasks, we find reason for optimism that nets will scale well as they advance from having a single skill to becoming multi-skill domain experts.
 We observe two key phenomena.
@@ -48,7 +48,7 @@ url = {http://rldm.org/papers/extendedabstracts.pdf},
 year = {2019}
 }
 
-@article{DavidsonLake2020,
+@inproceedings{DavidsonLake2020,
  abstract = {We explore the benefits of augmenting state-of-the-art model-free deep reinforcement algorithms with simple object representations.
  Following the Frostbite challenge posited by Lake et al. (2017), we identify object representations as a critical cognitive capacity lacking from current reinforcement learning agents.
  We discover that providing the Rainbow model (Hessel et al., 2018) with simple, feature-engineered object representations substantially boosts its performance on the Frostbite game from Atari 2600.
@@ -56,9 +56,40 @@ year = {2019}
  archiveprefix = {arXiv},
  arxivid = {2002.06703},
  author = {Davidson, Guy and Lake, Brenden M.},
+ booktitle = {Proceedings of the 42nd Annual Meeting of the Cognitive Science Society, CogSci 2020},
  eprint = {2002.06703},
- month = {feb},
+ month = {jul},
  title = {Investigating Simple Object Representations in Model-Free Deep Reinforcement Learning},
- url = {https://arxiv.org/abs/2002.06703},
+ url = {https://cogsci.mindmodeling.org/2020/papers/0466/0466.pdf},
  year = {2020}
 }
+
+@inproceedings{DavidsonLake2021,
+ abstract = {Categorizing spatial relations is central to the development of visual understanding and spatial cognition, with roots in the first few months of life. 
+ Quinn (2003) reviews two findings in infant relation categorization: categorizing one object as above/below another precedes categorizing an object as between other objects, and categorizing relations over specific objects predates abstract relations over varying objects. We model these phenomena with deep neural networks, including contemporary architectures specialized for relational learning and vision models pretrained on baby headcam footage (Sullivan et al., 2020). 
+ Across two computational experiments, we can account for most of the developmental findings, suggesting these neural network models are useful for studying the computational mechanisms of infant categorization.
+},
+ author = {Davidson, Guy and Lake, Brenden M.},
+ booktitle = {Proceedings of the 43rd Annual Meeting of the Cognitive Science Society, CogSci 2021},
+ month = {jul},
+ title = {Examining Infant Relation Categorization Through Deep Neural Networks},
+ url = {https://escholarship.org/uc/item/8sm6b1b4},
+ year = {2021}
+}
+
+
+@article{BennettDavidson2020,
+abstract = {Mood is an integrative and diffuse affective state that is thought to exert a pervasive effect on cognition and behavior. At the same time, mood itself is thought to fluctuate slowly as a product of feedback from interactions with the environment. Here we present a new computational theory of the valence of mood—the Integrated Advantage model—that seeks to account for this bidirectional interaction. Adopting theoretical formalisms from reinforcement learning, we propose to conceptualize the valence of mood as a leaky integral of an agent's appraisals of the Advantage of its actions. This model generalizes and extends previous models of mood wherein affective valence was conceptualized as a moving average of reward prediction errors. We give a full theoretical derivation of the Integrated Advantage model and provide a functional explanation of how an integrated-Advantage variable could be deployed adaptively by a biological agent to accelerate learning in complex and/or stochastic environments. Specifically, drawing on stochastic optimization theory, we propose that an agent can utilize our hypothesized form of mood to approximate a momentum-based update to its behavioral policy, thereby facilitating rapid learning of optimal actions. We then show how this model of mood provides a principled and parsimonious explanation for a number of contextual effects on mood from the affective science literature, including expectation- and surprise-related effects, counterfactual effects from information about foregone alternatives, action-typicality effects, and action/inaction asymmetry. (PsycInfo Database Record (c) 2021 APA, all rights reserved)},
+address = {Bennett, Daniel: Department of Psychiatry, Monash University, Clayton, VIC, Australia, 3800, daniel.bennett@monash.edu},
+author = {Bennett, Daniel and Davidson, Guy and Niv, Yael},
+doi = {10.1037/rev0000294},
+issn = {1939-1471(Electronic),0033-295X(Print)},
+journal = {Psychological Review},
+keywords = {*Computational Modeling,*Counterfactual Thinking,*Emotional States,*Learning,*Reinforcement,Feedback,Prediction Errors,Stochastic Modeling},
+pages = {No Pagination Specified--No Pagination Specified},
+publisher = {American Psychological Association},
+title = {{A model of mood as integrated advantage.}},
+url = {https://doi.org/10.1037/rev0000294},
+year = {2021}
+}
+

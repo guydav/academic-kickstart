@@ -14,6 +14,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
+- name: Human and Machine Learning Lab
+  url: "https://lake-lab.github.io/"
 - name: NYU Center for Data Science
   url: "https://cds.nyu.edu"
 
@@ -21,9 +23,9 @@ organizations:
 bio: PhD student in Data Science by day, avid cook and Ultimate Frisbee player by night.
 
 interests:
-- Cognitively-inspired machine learning
-- Multitask / meta / continual learning
-- Deep reinforcement learning
+- Cognitive representations of tasks and games
+- Exploration, generalization, and task-conditioned RL
+- Object representations and object-centric reasoning
 
 education:
   courses:
@@ -31,7 +33,7 @@ education:
     institution: NYU
     year: 2019--
   - course: BSc in Computational Sciences
-    institution: Minerva Schools at KGI
+    institution: Minerva University
     year: 2015--2019
 
 # Social/Academic Networking
@@ -70,6 +72,7 @@ email: "guy.davidson@nyu.edu"
 # - Visitors
 ---
 
-I'm a PhD student with the NYU Center for Data Science. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. I'm also interested in the more human-like learning that happens when we expose a model to multiple tasks -- continual learning and metalearning.
+I'm a PhD student with the NYU Center for Data Science, advised by Brenden Lake and Todd Gureckis. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. I am particularly interested in studying the compositional space of tasks humans operate in and using cognitively-driven task representations to improve exploration in reinforcement learning. I am also very excited about the role of objects in reinforcement learning and object-centric reasoning. 
 
-When I am not in the lab, I enjoy playing ultimate frisbee, cooking various meat dishes, and reading (primarily fantasy, sci-fi, and nonfiction).
+In my non-academic life, I enjoy playing ultimate frisbee, making homemmade fermented hot sauces, and making friends with all of the puppies in Brooklyn. 
+
