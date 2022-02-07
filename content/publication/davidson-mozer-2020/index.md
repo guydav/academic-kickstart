@@ -2,7 +2,7 @@
 title: 'Sequential mastery of multiple visual tasks: Networks naturally learn to learn
   and forget to forget '
 date: '2020-06-01'
-publishDate: '2021-09-29T22:45:13.948641Z'
+publishDate: '2022-02-07T20:57:30.302417Z'
 authors:
 - Guy Davidson
 - Michael C. Mozer
@@ -15,13 +15,13 @@ abstract: We explore the behavior of a standard convolutional neural net in a co
   serially, for example, as an individual studies a textbook. Through simulations
   involving sequences of ten related visual tasks, we find reason for optimism that
   nets will scale well as they advance from having a single skill to becoming multi-skill
-  domain experts. We observe two key phenomena. First, emphforward facilitation---the
-  accelerated learning of task n+1 having learned n previous tasks---grows with n.
-  Second, emphbackward interference---the forgetting of the n previous tasks when
-  learning task n+1---diminishes with n. Amplifying forward facilitation is the goal
-  of research on metalearning, and attenuating backward interference is the goal of
-  research on catastrophic forgetting. We find that both of these goals are attained
-  simply through broader exposure to a domain.
+  domain experts. We observe two key phenomena. First, *forward facilitation* ---
+  the accelerated learning of task $n+1$ having learned $n$ previous tasks --- grows
+  with $n$.  Second, *backward interference* --- the forgetting of the $n$ previous
+  tasks when learning task $n+1$ --- diminishes with $n$. Amplifying forward facilitation
+  is the goal of research on metalearning, and attenuating backward interference is
+  the goal of research on catastrophic forgetting. We find that both of these goals
+  are attained simply through broader exposure to a domain.
 featured: false
 publication: '*The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*'
 url_pdf: https://arxiv.org/abs/1905.10837

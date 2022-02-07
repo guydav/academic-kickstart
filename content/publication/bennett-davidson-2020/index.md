@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-29T22:45:14.536280Z'
+publishDate: '2022-02-07T20:57:31.144178Z'
 publication_types:
 - '2'
 abstract: Mood is an integrative and diffuse affective state that is thought to exert
