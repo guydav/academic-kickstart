@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: PhD Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Human and Machine Learning Lab
   url: "https://lake-lab.github.io/"
@@ -22,11 +22,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student in Data Science by day, avid cook and Ultimate Frisbee player by night.
 
+# Interests to show in About widget
 interests:
 - Cognitive representations of tasks and games
 - Exploration, generalization, and task-conditioned RL
 - Object representations and object-centric reasoning
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Data Science
@@ -37,9 +39,9 @@ education:
     year: 2015--2019
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
