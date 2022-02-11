@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # title: "Accomplish&shy;ments"
-title: "Summer&shy;Schools"
+title: "Summer Schools"
 subtitle: ""
 
 # Date format

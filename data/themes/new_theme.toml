@@ -1,0 +1,35 @@
+# Theme metadata
+name = "new_theme"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#8900E1" # "#EF476F" #
+
+# Menu
+menu_primary = "#F7F7F7"
+menu_text = "#FCA311"
+menu_text_active = "#0EAD69"
+menu_title = "#118AB2"
+# menu_primary = "#ffffff"
+# menu_text = "#34495e"
+# menu_text_active = "#2962ff"
+# menu_title = "#2b2b2b"
+
+dark_menu_primary = "#F7F7F7"
+dark_menu_text = "#FCA311"
+dark_menu_text_active = "#0EAD69"
+dark_menu_title = "#118AB2"
+
+# Backgrounds
+background = "#272935"
+home_section_odd = "#272935"
+home_section_even = "#23252f"
+
+dark_background = ""
+dark_home_section_odd = ""
+dark_home_section_even = ""
+
+link = "#D90429"
+link_hover = "#118AB2"

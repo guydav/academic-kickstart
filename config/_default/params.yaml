@@ -5,8 +5,11 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
+theme: new_theme 
+# theme: my_theme 
+# theme: minimal
+# day_night: true
+# dark: true
 font: ''
 font_size: L
 

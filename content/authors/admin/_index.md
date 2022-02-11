@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: PhD in Data Science
-    institution: NYU
+    institution: New York University
     year: 2019--
   - course: BSc in Computational Sciences
     institution: Minerva University
