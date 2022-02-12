@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: A model of mood as integrated advantage.
+title: A model of mood as integrated advantage
 subtitle: ''
 summary: ''
 authors:

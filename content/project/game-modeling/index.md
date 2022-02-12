@@ -46,3 +46,5 @@ We create an embodied, 3D environment resembling a child's bedroom, and ask stud
 We model games using a domain-specific language, which represents each game as a computer program. 
 These programs act as reward-generating functions, mapping states visited by an agent as they play a game to the score they should receive in the game. 
 We then analyze our corpus of program representations to highlight four key aspects of human games that would contribute to constructing effective computational models of game generation: creativity, compositionality, common sense, and context sensitivity.
+
+Under review.

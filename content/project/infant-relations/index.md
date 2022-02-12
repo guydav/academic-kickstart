@@ -43,3 +43,5 @@ Categorizing spatial relations is central to the development of visual understan
 Quinn (2003) reviews two findings in infant relation categorization: categorizing one object as above/below another precedes categorizing an object as between other objects, and categorizing relations over specific objects predates abstract relations over varying objects.
 We model these phenomena with deep neural networks, including contemporary architectures specialized for relational learning and vision models pretrained on baby headcam footage \citep{Sullivan2020}.
 Across two computational experiments, we can account for most of the developmental findings, suggesting these neural network models are useful for studying the computational mechanisms of infant categorization.  
+
+Published at CogSci 2021.
