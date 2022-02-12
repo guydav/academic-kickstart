@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Game Modeling"
-summary: "TODO: summarize"
+title: "Playful Goal Modeling"
+summary: "How do people generate playful goals? We take first steps towards computational models of playful goals"
 authors: []
-tags: 
-- Cognitive Science
-- Domain Specific Language
+tags: []
+# - Cognitive Science
+# - Domain Specific Language
 categories: []
 date: 2022-02-11T13:16:32-05:00
 
@@ -17,7 +17,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "(A) playful goal generation, (B) interactive environment, (C) English games, (D) domain-specific language"
   focal_point: ""
   preview_only: false
 
@@ -41,6 +41,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+How do people come up with open-ended goals? Inspired by ideas of intrinsic motivation (Schmidhuber, 2010) and play as proposing and solving arbitrary problems (Chu & Schulz, 2020), we take first steps toward computational modeling of playful goal generation.
+We create an embodied, 3D environment resembling a child's bedroom, and ask study participants to play in the environment and then create a scorable game. 
+We model games using a domain-specific language, which represents each game as a computer program. 
+These programs act as reward-generating functions, mapping states visited by an agent as they play a game to the score they should receive in the game. 
+We then analyze our corpus of program representations to highlight four key aspects of human games that would contribute to constructing effective computational models of game generation: creativity, compositionality, common sense, and context sensitivity.
