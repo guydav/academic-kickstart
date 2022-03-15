@@ -47,4 +47,6 @@ We model games using a domain-specific language, which represents each game as a
 These programs act as reward-generating functions, mapping states visited by an agent as they play a game to the score they should receive in the game. 
 We then analyze our corpus of program representations to highlight four key aspects of human games that would contribute to constructing effective computational models of game generation: creativity, compositionality, common sense, and context sensitivity.
 
+See the full description of our domain specific language [here](/files/Game_Creation_DSL_2022_03_14.pdf).
+
 Under review.
