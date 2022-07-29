@@ -28,6 +28,6 @@ abstract: 'Policy-gradient reinforcement learning (RL) algorithms have recently 
 featured: false
 publication: '*The 4th Multidisciplinary Conference on Reinforcement Learning and
   Decision Making*'
-url_pdf: http://rldm.org/papers/extendedabstracts.pdf
+url_pdf: https://rldm.org/papers/extendedabstracts.pdf
 ---
 

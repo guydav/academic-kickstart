@@ -30,9 +30,9 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/guydav/game-generation-modeling"
-url_pdf: ""
+url_pdf: "https://escholarship.org/uc/item/18x3h636"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=ChK8FoGHPos"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -49,4 +49,4 @@ We then analyze our corpus of program representations to highlight four key aspe
 
 See the full description of our domain specific language [here](/files/Game_Creation_DSL_2022_03_14.pdf).
 
-Under review.
+Presented as a flash talk and paper at CogSci 2022.
