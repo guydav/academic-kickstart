@@ -10,7 +10,7 @@ authors:
 - Brenden M. Lake
 tags: []
 categories: []
-date: '2022-03-01'
+date: '2022-07-01'
 lastmod: 2022-03-24T11:02:16-04:00
 featured: false
 draft: false
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-24T15:02:10.149433Z'
+publishDate: '2022-09-21T19:00:06.900398Z'
 publication_types:
 - '1'
 abstract: "Inspired by notions of intrinsic motivation (Schmidhuber, 2010) and play\
@@ -43,8 +43,9 @@ abstract: "Inspired by notions of intrinsic motivation (Schmidhuber, 2010) and p
   \ our corpus of program representations to highlight four key aspects of human games\
   \ that would contribute to constructing effective computational models of game generation:\
   \ creativity, compositionality, common sense, and context sensitivity."
-publication: ''
+publication: '*Proceedings of the 44th Annual Meeting of the Cognitive Science Society,
+  CogSci 2022*'
 links:
 - name: URL
-  url: https://psyarxiv.com/byzs5
+  url: https://escholarship.org/uc/item/18x3h636
 ---

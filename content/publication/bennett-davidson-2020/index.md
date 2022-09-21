@@ -9,14 +9,14 @@ authors:
 - Guy Davidson
 - Yael Niv
 tags:
-- '"*Computational Modeling"'
-- '"*Counterfactual Thinking"'
-- '"*Emotional States"'
-- '"*Learning"'
-- '"*Reinforcement"'
-- '"Feedback"'
-- '"Prediction Errors"'
-- '"Stochastic Modeling"'
+- '*Computational Modeling'
+- '*Counterfactual Thinking'
+- '*Emotional States'
+- '*Learning'
+- '*Reinforcement'
+- Feedback
+- Prediction Errors
+- Stochastic Modeling
 categories: []
 date: '2021-01-01'
 lastmod: 2021-09-29T18:45:14-04:00
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-07T20:57:31.144178Z'
+publishDate: '2022-09-21T19:00:06.795263Z'
 publication_types:
 - '2'
 abstract: Mood is an integrative and diffuse affective state that is thought to exert
@@ -64,4 +64,7 @@ abstract: Mood is an integrative and diffuse affective state that is thought to 
 publication: '*Psychological Review*'
 url_pdf: https://doi.org/10.1037/rev0000294
 doi: 10.1037/rev0000294
+links:
+- name: URL
+  url: https://doi.org/10.1037/rev0000294
 ---

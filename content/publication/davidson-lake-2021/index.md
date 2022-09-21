@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-07T20:57:31.014099Z'
+publishDate: '2022-09-21T19:00:06.695342Z'
 publication_types:
 - '1'
 abstract: 'Categorizing spatial relations is central to the development of visual
@@ -44,4 +44,7 @@ abstract: 'Categorizing spatial relations is central to the development of visua
 publication: '*Proceedings of the 43rd Annual Meeting of the Cognitive Science Society,
   CogSci 2021*'
 url_pdf: https://escholarship.org/uc/item/8sm6b1b4
+links:
+- name: URL
+  url: https://escholarship.org/uc/item/8sm6b1b4
 ---
