@@ -7,3 +7,5 @@ public/
 jsconfig.json
 node_modules/
 .huge_build.lock
+
+**/.DS_Store
