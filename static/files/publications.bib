@@ -73,7 +73,7 @@ year = {2019}
  author = {Davidson, Guy and Lake, Brenden M.},
  booktitle = {Object-Oriented Learning (OOL): Perception, Representation, and Reasoning Workshop at ICML 2020},
  month = {jul},
- title = {Systematically Comparing Neural Network Architectures in Relation Leaning},
+ title = {Systematically Comparing Neural Network Architectures in Relation Learning},
  url = {https://oolworkshop.github.io/program/ool_20.html},
  year = {2020}
 }
@@ -114,4 +114,31 @@ year = {2021}
  title = {Creativity, Compositionality, and Common Sense in Human Goal Generation},
  url = {https://escholarship.org/uc/item/18x3h636},
  year = {2022}
+}
+
+@article{DavidsonOrhanLake2023,
+  abstract        = {Spatial relations, such as above, below, between, and containment, are important mediators in children’s understanding of the world (Piaget, 1954). The development of these relational categories in infancy has been extensively studied (Quinn, 2003) yet little is known about their computational underpinnings. Using developmental tests, we examine the extent to which deep neural networks, pretrained on a standard vision benchmark or egocentric video captured from one baby’s perspective, form categorical representations for visual stimuli depicting relations. Notably, the networks did not receive any explicit training on relations. We then analyze whether these networks recover similar patterns to ones identified in the development, such as reproducing the relative difficulty of categorizing different spatial relations and different stimulus abstractions. We find that the networks we evaluate tend to recover many of the patterns observed with the simpler relations of “above versus below” or “between versus outside”, but struggle to match developmental findings related to “containment”. We identify factors in the choice of model architecture, pretraining data, and experimental design that contribute to the extent the networks match developmental patterns, and highlight experimental predictions made by our modeling results. Our results open the door to modeling infants’ earliest categorization abilities with modern machine learning tools and demonstrate the utility and productivity of this approach.},
+  archiveprefix   = {PsyArXiv},
+  arxivid         = {ykejp},
+  author          = {Davidson, Guy and Orhan, A. Emin and Lake, Brenden M.},
+  doi             = {10.31234/osf.io/ykejp},
+  month           = {oct},
+  title           = {Spatial Relation Categorization in Infants and Deep Neural Networks},
+  url             = {https://osf.io/preprints/psyarxiv/ykejp},
+  year            = {2023}
+}
+
+@inproceedings{DavidsonToddGureckisTogeliusLake2023,
+abstract = {Humans show a remarkable capacity to generate novel goals, for learning and play alike, and modeling this human capacity would be a valuable step toward more generally-capable artificial agents. 
+We describe a computational model for generating novel human-like goals represented in a domain-specific language (DSL). 
+We learn a ‘human-likeness’ fitness function over expressions in this DSL from a small (<100 game) human dataset collected in an online experiment. 
+We then use a Quality-Diversity (QD) approach to generate a variety of human-like games with different characteristics and high fitness. 
+We demonstrate that our method can generate synthetic games that are syntactically coherent under the DSL, semantically sensible with respect to environmental objects and their affordances, but distinct from human games in the training set. 
+We discuss key components of our model and its current shortcomings, in the hope that this work helps inspire progress toward self-directed agents with human-like goals.},
+author = {Davidson, Guy and Todd, Graham and Gureckis, Todd M. and Togelius, Julian and Lake, Brenden M.},
+booktitle = {Intrinsically Motivated Open-ended Learning @ NeurIPS 2023},
+month           = {dec},
+title = {{Generating Human-Like Goals by Synthesizing Reward-Producing Programs}},
+url = {https://guydavidson.me/files/IMOL_Workshop_Modeling_Game_Generation.pdf},
+year = {2023}
 }

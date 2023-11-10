@@ -24,9 +24,9 @@ bio: PhD student in Data Science by day, avid cook and Ultimate Frisbee player b
 
 # Interests to show in About widget
 interests:
-- Cognitive representations of tasks and games
-- Exploration, generalization, and task-conditioned RL
-- Object representations and object-centric reasoning
+- Cognitive representations of goals and tasks
+- Generating human-like goals for artificial agents
+- Cognitive modeling using neural networks
 
 # Education to show in About widget
 education:
@@ -74,7 +74,9 @@ email: "guy.davidson@nyu.edu"
 # - Visitors
 ---
 
-I'm a PhD student with the NYU Center for Data Science, advised by Brenden Lake and Todd Gureckis. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. I am particularly interested in studying the compositional space of tasks humans operate in and using cognitively-driven task representations to improve exploration in reinforcement learning. I am also very excited about the role of objects in reinforcement learning and object-centric reasoning. 
+I'm a fifth-year PhD student with the NYU Center for Data Science, advised by Brenden Lake and Todd Gureckis. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. 
+My thesis research studies how people represent cognitive goals and tasks and proposes computational models generating similarly rich and human-like goals. 
+I'm excited about how richer goal representations could facilitate exploration and generalization in artificial agents.
 
-In my non-academic life, I enjoy playing ultimate frisbee, making homemmade fermented hot sauces, and making friends with all of the puppies in Brooklyn. 
+In my non-academic life, I enjoy playing ultimate frisbee, making homemade hot sauces, and making friends with all the dogs in Brooklyn. 
 

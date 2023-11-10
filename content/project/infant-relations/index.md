@@ -6,7 +6,7 @@ summary: "We use several types of deep neural networks to model various results 
 authors: []
 tags: []
 categories: []
-date: 2021-07-27
+date: 2023-10-20
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "The familiarization stimulus (center) has the same category (below) as the example on the left"
+  caption: "Left: infant relation categorization is studied in the lab using a novelty-preference paradigm. Right: we model this paradigm using deep neural networks. "
   focal_point: "Top"
   preview_only: false
 
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/guydav/simple-relational-reasoning/tree/quinn"
-url_pdf: "https://escholarship.org/uc/item/8sm6b1b4"
+url_pdf: "https://osf.io/preprints/psyarxiv/ykejp"
 url_slides: "https://drive.google.com/file/d/1Zzh6e3J7KN1-bySxGfbEMBx1bY4_ymq2/view?usp=sharing"
 url_video: ""
 
@@ -39,9 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Categorizing spatial relations is central to the development of visual understanding and spatial cognition, with roots in the first few months of life.
-Quinn (2003) reviews two findings in infant relation categorization: categorizing one object as above/below another precedes categorizing an object as between other objects, and categorizing relations over specific objects predates abstract relations over varying objects.
-We model these phenomena with deep neural networks, including contemporary architectures specialized for relational learning and vision models pretrained on baby headcam footage \citep{Sullivan2020}.
-Across two computational experiments, we can account for most of the developmental findings, suggesting these neural network models are useful for studying the computational mechanisms of infant categorization.  
+Spatial relations, such as above, below, between, and containment, are important mediators in children’s understanding of the world (Piaget, 1954). 
+The development of these relational categories in infancy has been extensively studied (Quinn, 2003) yet little is known about their computational underpinnings. 
+Using developmental tests, we examine the extent to which deep neural networks, pretrained on a standard vision benchmark or egocentric video captured from one baby’s perspective, form categorical representations for visual stimuli depicting relations. 
+Notably, the networks did not receive any explicit training on relations. 
+We then analyze whether these networks recover similar patterns to ones identified in the development, such as reproducing the relative difficulty of categorizing different spatial relations and different stimulus abstractions. 
+We find that the networks we evaluate tend to recover many of the patterns observed with the simpler relations of “above versus below” or “between versus outside”, but struggle to match developmental findings related to “containment”. 
+We identify factors in the choice of model architecture, pretraining data, and experimental design that contribute to the extent the networks match developmental patterns, and highlight experimental predictions made by our modeling results. 
+Our results open the door to modeling infants’ earliest categorization abilities with modern machine learning tools and demonstrate the utility and productivity of this approach.
 
-Published at CogSci 2021.
+Initially published at [CogSci 2021](https://escholarship.org/uc/item/8sm6b1b4), a [longer version](https://osf.io/preprints/psyarxiv/ykejp) is currently under review.
