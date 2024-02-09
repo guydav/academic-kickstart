@@ -2,7 +2,7 @@
 title: Contrasting the effects of prospective attention and retrospective decay in
   representation learning
 date: '2019-01-01'
-publishDate: '2023-11-10T20:02:14.056172Z'
+publishDate: '2024-02-09T16:14:36.240677Z'
 authors:
 - Guy Davidson
 - Angela Radulescu

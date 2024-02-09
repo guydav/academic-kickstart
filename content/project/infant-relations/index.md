@@ -48,4 +48,4 @@ We find that the networks we evaluate tend to recover many of the patterns obser
 We identify factors in the choice of model architecture, pretraining data, and experimental design that contribute to the extent the networks match developmental patterns, and highlight experimental predictions made by our modeling results. 
 Our results open the door to modeling infants’ earliest categorization abilities with modern machine learning tools and demonstrate the utility and productivity of this approach.
 
-Initially published at [CogSci 2021](https://escholarship.org/uc/item/8sm6b1b4), a [longer version](https://osf.io/preprints/psyarxiv/ykejp) is currently under review.
+Initially published at [CogSci 2021](https://escholarship.org/uc/item/8sm6b1b4), a [longer version](https://osf.io/preprints/psyarxiv/ykejp) is in press in Cognition. 

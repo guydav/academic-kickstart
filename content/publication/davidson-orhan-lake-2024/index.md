@@ -1,17 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spatial Relation Categorization in Infants and Deep Neural Networks
+title: Spatial relation categorization in infants and deep neural networks
 subtitle: ''
 summary: ''
 authors:
 - Guy Davidson
 - A. Emin Orhan
 - Brenden M. Lake
-tags: []
+tags:
+- Spatial relation categorization
+- Cognitive development
+- Neural Networks
+- Connectionist models
+- Pretrained computer vision models
 categories: []
-date: '2023-10-01'
-lastmod: 2023-11-10T15:02:14-05:00
+date: '2024-04-01'
+lastmod: 2024-02-09T11:14:37-05:00
 featured: false
 draft: false
 
@@ -29,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-11-10T20:02:14.838267Z'
+publishDate: '2024-02-09T16:14:37.105847Z'
 publication_types:
 - '2'
 abstract: Spatial relations, such as above, below, between, and containment, are important
@@ -40,7 +45,7 @@ abstract: Spatial relations, such as above, below, between, and containment, are
   vision benchmark or egocentric video captured from one baby’s perspective, form
   categorical representations for visual stimuli depicting relations. Notably, the
   networks did not receive any explicit training on relations. We then analyze whether
-  these networks recover similar patterns to ones identified in the development, such
+  these networks recover similar patterns to ones identified in development, such
   as reproducing the relative difficulty of categorizing different spatial relations
   and different stimulus abstractions. We find that the networks we evaluate tend
   to recover many of the patterns observed with the simpler relations of “above versus
@@ -51,9 +56,9 @@ abstract: Spatial relations, such as above, below, between, and containment, are
   modeling results. Our results open the door to modeling infants’ earliest categorization
   abilities with modern machine learning tools and demonstrate the utility and productivity
   of this approach.
-publication: '*Cognition (in press)*'
-doi: 10.31234/osf.io/ykejp
+publication: '*Cognition*'
+doi: 10.1016/j.cognition.2023.105690
 links:
 - name: URL
-  url: https://osf.io/preprints/psyarxiv/ykejp
+  url: https://www.sciencedirect.com/science/article/pii/S0010027723003244?dgcid=author
 ---

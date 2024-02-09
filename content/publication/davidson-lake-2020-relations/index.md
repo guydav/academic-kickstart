@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-11-10T20:02:14.382736Z'
+publishDate: '2024-02-09T16:14:36.566021Z'
 publication_types:
 - '1'
 abstract: We offer a systematic comparison of the ability of neural network architectures

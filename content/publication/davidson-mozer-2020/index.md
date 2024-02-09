@@ -2,7 +2,7 @@
 title: 'Sequential mastery of multiple visual tasks: Networks naturally learn to learn
   and forget to forget '
 date: '2020-06-01'
-publishDate: '2023-11-10T20:02:13.814499Z'
+publishDate: '2024-02-09T16:14:30.652790Z'
 authors:
 - Guy Davidson
 - Michael C. Mozer
