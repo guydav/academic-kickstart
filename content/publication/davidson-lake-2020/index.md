@@ -21,7 +21,7 @@ abstract: We explore the benefits of augmenting state-of-the-art model-free deep
 featured: false
 publication: '*Proceedings of the 42nd Annual Meeting of the Cognitive Science Society,
   CogSci 2020*'
-url_pdf: https://cogsci.mindmodeling.org/2020/papers/0466/0466.pdf
+url_pdf: https://www.cognitivesciencesociety.org/cogsci20/papers/0466/0466.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2002.06703

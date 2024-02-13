@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/guydav/Rainbow/tree/augmentation"
-url_pdf: "https://cogsci.mindmodeling.org/2020/papers/0466/0466.pdf"
+url_pdf: "https://www.cognitivesciencesociety.org/cogsci20/papers/0466/0466.pdf"
 url_slides: "https://drive.google.com/file/d/1_SM9dqbWorY8gf31jq8Skn4RTpVjjxc1/view?usp=sharing"
 url_video: "https://drive.google.com/file/d/1hpuM_mBuPE9YMsbO7quSE9ciVvXitly8/view?usp=sharing"
 

@@ -20,7 +20,7 @@ organizations:
   url: "https://cds.nyu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Data Science by day, avid cook and Ultimate Frisbee player by night.
+bio: PhD Candidate in Cognitive Science/Data Science by day, avid cook and Ultimate Frisbee player by night.
 
 # Interests to show in About widget
 interests:
@@ -74,7 +74,7 @@ email: "guy.davidson@nyu.edu"
 # - Visitors
 ---
 
-I'm a fifth-year PhD student with the NYU Center for Data Science, advised by Brenden Lake and Todd Gureckis. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. 
+I'm a PhD candidate at the NYU Center for Data Science, doing cognitive science research advised by Brenden Lake and Todd Gureckis. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. 
 My thesis research studies how people represent cognitive goals and tasks and proposes computational models generating similarly rich and human-like goals. 
 I'm excited about how richer goal representations could facilitate exploration and generalization in artificial agents.
 
