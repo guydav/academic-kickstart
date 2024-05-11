@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-02-09T16:14:36.895874Z'
+publishDate: '2024-05-11T03:07:42.597332Z'
 publication_types:
 - '1'
 abstract: "Inspired by notions of intrinsic motivation (Schmidhuber, 2010) and play\

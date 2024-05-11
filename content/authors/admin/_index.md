@@ -74,9 +74,10 @@ email: "guy.davidson@nyu.edu"
 # - Visitors
 ---
 
-I'm a PhD candidate at the NYU Center for Data Science, doing cognitive science research advised by Brenden Lake and Todd Gureckis. My research interests center around cognitively-inspired machine learning: how can we draw inspiration from human cognition to advance the design of machine learning methods. 
-My thesis research studies how people represent cognitive goals and tasks and proposes computational models generating similarly rich and human-like goals. 
-I'm excited about how richer goal representations could facilitate exploration and generalization in artificial agents.
+I'm a cognitive scientist and PhD candidate at the NYU Center for Data Science, advised by Brenden Lake and Todd Gureckis. 
+I'm excited about understanding the human mind and leveraging ideas from human cognition to develop more human-like artificial intelligence. 
+My research combines human experiments, data analysis, and computational modeling to study cognition. 
+I am particularly interested in cognitive goals and the use of structured, program-like representations to capture them, and I'm keen to explore how richer goal representations could facilitate exploration and generalization in artificial agents.
 
 In my non-academic life, I enjoy playing ultimate frisbee, making homemade hot sauces, and making friends with all the dogs in Brooklyn. 
 
