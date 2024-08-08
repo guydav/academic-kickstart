@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-11T03:07:42.274501Z'
+publishDate: '2024-08-08T16:46:54.202232Z'
 publication_types:
 - '1'
 abstract: We offer a systematic comparison of the ability of neural network architectures
@@ -41,7 +41,7 @@ abstract: We offer a systematic comparison of the ability of neural network arch
   substantial differences between our models, suggesting there is room for further
   research in this domain.
 publication: '*Object-Oriented Learning (OOL): Perception, Representation, and Reasoning
-  Workshop at ICML 2020*'
+  @ ICML 2020*'
 links:
 - name: URL
   url: https://oolworkshop.github.io/program/ool_20.html

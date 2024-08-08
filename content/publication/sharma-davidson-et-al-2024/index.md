@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-11T03:07:42.921561Z'
+publishDate: '2024-08-08T16:46:54.912429Z'
 publication_types:
-- '2'
+- '1'
 abstract: "Achieving human-AI alignment in complex multi-agent games is crucial for\
   \ creating trustworthy AI agents that enhance gameplay. We propose a method to evaluate\
   \ this alignment using an interpretable task-sets framework, focusing on high-level\
@@ -55,10 +55,9 @@ abstract: "Achieving human-AI alignment in complex multi-agent games is crucial 
   \ applications. Our study advances the alignment discussion in AI and especially\
   \ generative AI research, offering a measurable framework for interpretable human-agent\
   \ alignment in multiplayer gaming."
-publication: ''
+publication: '*Wordplay @ ACL 2024, Association for Computational Linguistics*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2402.03575
-- name: URL
-  url: https://arxiv.org/abs/2402.03575
+url_pdf: https://wordplay-workshop.github.io/pdfs/20.pdf
 ---

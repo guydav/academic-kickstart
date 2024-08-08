@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-11T03:07:42.377470Z'
+publishDate: '2024-08-08T16:46:54.320827Z'
 publication_types:
 - '1'
 abstract: 'Categorizing spatial relations is central to the development of visual

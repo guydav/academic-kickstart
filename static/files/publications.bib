@@ -71,7 +71,7 @@ year = {2019}
  We generate simple object representations and evaluate models on their ability to learn these relations in the abstract, which allows us to focus on the relevance of their inductive biases for such reasoning. 
  Our results highlight substantial differences between our models, suggesting there is room for further research in this domain.},
  author = {Davidson, Guy and Lake, Brenden M.},
- booktitle = {Object-Oriented Learning (OOL): Perception, Representation, and Reasoning Workshop at ICML 2020},
+ booktitle = {Object-Oriented Learning (OOL): Perception, Representation, and Reasoning @ ICML 2020},
  month = {jul},
  title = {Systematically Comparing Neural Network Architectures in Relation Learning},
  url = {https://oolworkshop.github.io/program/ool_20.html},
@@ -124,7 +124,7 @@ We then use a Quality-Diversity (QD) approach to generate a variety of human-lik
 We demonstrate that our method can generate synthetic games that are syntactically coherent under the DSL, semantically sensible with respect to environmental objects and their affordances, but distinct from human games in the training set. 
 We discuss key components of our model and its current shortcomings, in the hope that this work helps inspire progress toward self-directed agents with human-like goals.},
 author = {Davidson, Guy and Todd, Graham and Gureckis, Todd M. and Togelius, Julian and Lake, Brenden M.},
-booktitle = {Intrinsically Motivated Open-ended Learning @ NeurIPS 2023},
+booktitle = {Intrinsically Motivated Open-Ended Learning @ NeurIPS 2023},
 month           = {dec},
 title = {{Generating Human-Like Goals by Synthesizing Reward-Producing Programs}},
 url = {https://guydavidson.me/files/IMOL_Workshop_Modeling_Game_Generation.pdf},
@@ -143,15 +143,16 @@ year = {2023}
   year            = {2024}
 }
 
-@article{SharmaDavidsonEtAl2024,
+@inproceedings{SharmaDavidsonEtAl2024,
  abstract = {Achieving human-AI alignment in complex multi-agent games is crucial for creating trustworthy AI agents that enhance gameplay. We propose a method to evaluate this alignment using an interpretable task-sets framework, focusing on high-level behavioral tasks instead of low-level policies. Our approach has three components. First, we analyze extensive human gameplay data from Xbox's Bleeding Edge (100K+ games), uncovering behavioral patterns in a complex task space. This task space serves as a basis set for a behavior manifold capturing interpretable axes: fight-flight, explore-exploit, and solo-multi-agent. Second, we train an AI agent to play Bleeding Edge using a Generative Pretrained Causal Transformer and measure its behavior. Third, we project human and AI gameplay to the proposed behavior manifold to compare and contrast. This allows us to interpret differences in policy as higher-level behavioral concepts, e.g., we find that while human players exhibit variability in fight-flight and explore-exploit behavior, AI players tend towards uniformity. Furthermore, AI agents predominantly engage in solo play, while humans often engage in cooperative and competitive multi-agent patterns. These stark differences underscore the need for interpretable evaluation, design, and integration of AI in human-aligned applications. Our study advances the alignment discussion in AI and especially generative AI research, offering a measurable framework for interpretable human-agent alignment in multiplayer gaming.},
  archiveprefix = {arXiv},
  arxivid = {2402.03575},
  author = {Sharma, Sugandha and  Davidson, Guy and Khetarpal, Khimya and Kanervisto, Anssi and Arora, Udit and Hofmann, Katja and Momennejad, Ida},
+ booktitle = {Wordplay @ ACL 2024, Association for Computational Linguistics},
  eprint = {2402.03575},
  month = {feb},
  title = {Toward Human-AI Alignment in Large-Scale Multi-Player Games},
- url = {https://arxiv.org/abs/2402.03575},
+ url = {https://wordplay-workshop.github.io/pdfs/20.pdf},
  year = {2024}
 }
 
@@ -167,5 +168,20 @@ author = {Davidson, Guy and Todd, Graham and Togelius, Julian and Gureckis, Todd
 month           = {may},
 title = {{Goals as Reward-Producing Programs}},
 url = {https://guydavidson.me/files/goals_as_programs.pdf},
+year = {2024}
+}
+
+@inproceedings{DavidsonGureckis2024,
+abstract = {Goals play a central role in the study of agentic behavior. 
+But what is a goal, and how should we best represent them? 
+The traditional reinforcement learning answer is that all goals are expressible as the maximization of future rewards. 
+While parsimonious, such a definition seems insufficient when viewed from both the perspective of humans specifying goals to machines and autotelic agents that self-propose tasks to explore and learn. 
+We offer a critical perspective on the distillation of all goals directly into reward functions. 
+We identify key features we believe goal representations ought to have, and then offer a proposal we believe meets those considerations},
+author = {Davidson, Guy and Gureckis, Todd M.},
+booktitle = {Finding the Frame @ RLC 2024},
+month           = {aug},
+title = {{Toward Complex and Structured Goals in Reinforcement Learning}},
+url = {https://openreview.net/attachment?id=YkmTFoeuc1&name=pdf},
 year = {2024}
 }

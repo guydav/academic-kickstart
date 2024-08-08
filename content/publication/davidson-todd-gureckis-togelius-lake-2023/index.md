@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-11T03:07:42.704493Z'
+publishDate: '2024-08-08T16:46:54.671318Z'
 publication_types:
 - '1'
 abstract: Humans show a remarkable capacity to generate novel goals, for learning
@@ -47,6 +47,6 @@ abstract: Humans show a remarkable capacity to generate novel goals, for learnin
   training set.  We discuss key components of our model and its current shortcomings,
   in the hope that this work helps inspire progress toward self-directed agents with
   human-like goals.
-publication: '*Intrinsically Motivated Open-ended Learning @ NeurIPS 2023*'
+publication: '*Intrinsically Motivated Open-Ended Learning @ NeurIPS 2023*'
 url_pdf: https://guydavidson.me/files/IMOL_Workshop_Modeling_Game_Generation.pdf
 ---

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-11T03:07:43.030043Z'
+publishDate: '2024-08-08T16:46:55.028802Z'
 publication_types:
 - '2'
 abstract: People have a remarkable capacity to generate their own goals, beginning
