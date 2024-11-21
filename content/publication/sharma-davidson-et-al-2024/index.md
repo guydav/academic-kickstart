@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-08-08T16:46:54.912429Z'
+publishDate: '2024-11-21T17:24:17.919189Z'
 publication_types:
 - '1'
 abstract: "Achieving human-AI alignment in complex multi-agent games is crucial for\

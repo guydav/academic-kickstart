@@ -24,9 +24,10 @@ bio: PhD Candidate in Cognitive Science/Data Science by day, avid cook and Ultim
 
 # Interests to show in About widget
 interests:
-- Cognitive representations of goals and tasks
-- Generating human-like goals for artificial agents
-- Cognitive modeling using neural networks
+- Human goal representation and generation
+- Generating and inferring human-like goals with artificial agents
+- Compuational cognitive science
+- Large Language Models' intent inference from ambiguous inputs
 
 # Education to show in About widget
 education:
@@ -34,6 +35,9 @@ education:
   - course: PhD in Data Science
     institution: New York University
     year: 2019--
+  - course: MPhil in Data Science
+    institution: New York University
+    year: 2023
   - course: BSc in Computational Sciences
     institution: Minerva University
     year: 2015--2019

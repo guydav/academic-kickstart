@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-08-08T16:46:55.142455Z'
+publishDate: '2024-11-21T17:24:18.140367Z'
 publication_types:
 - '1'
 abstract: Goals play a central role in the study of agentic behavior.  But what is

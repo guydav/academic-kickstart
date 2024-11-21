@@ -2,7 +2,7 @@
 title: Investigating Simple Object Representations in Model-Free Deep Reinforcement
   Learning
 date: '2020-07-01'
-publishDate: '2024-08-08T16:46:54.090405Z'
+publishDate: '2024-11-21T17:24:17.176527Z'
 authors:
 - Guy Davidson
 - Brenden M. Lake

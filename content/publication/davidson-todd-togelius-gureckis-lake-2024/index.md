@@ -12,7 +12,7 @@ authors:
 - Brenden M. Lake
 tags: []
 categories: []
-date: '2024-05-01'
+date: '2024-09-01'
 lastmod: 2024-05-01T18:48:55-04:00
 featured: false
 draft: false
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-08-08T16:46:55.028802Z'
+publishDate: '2024-11-21T17:24:18.029633Z'
 publication_types:
 - '2'
 abstract: People have a remarkable capacity to generate their own goals, beginning
@@ -48,6 +48,8 @@ abstract: People have a remarkable capacity to generate their own goals, beginni
   indistinguishable from human-created games. We also discovered that our model’s
   internal fitness scores predict games that are evaluated as more fun to play and
   more human-like.
-publication: ''
-url_pdf: https://guydavidson.me/files/goals_as_programs.pdf
+publication: '*Accepted in principle, Nature Machine Intelligence*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2405.13242
 ---

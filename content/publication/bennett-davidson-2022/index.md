@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A model of mood as integrated advantage
 subtitle: ''
@@ -18,8 +18,8 @@ tags:
 - Prediction Errors
 - Stochastic Modeling
 categories: []
-date: '2021-01-01'
-lastmod: 2021-09-29T18:45:14-04:00
+date: '2022-04-01'
+lastmod: 2024-10-30T15:02:08-04:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-08-08T16:46:54.436352Z'
+publishDate: '2024-11-21T17:24:17.495480Z'
 publication_types:
 - '2'
 abstract: Mood is an integrative and diffuse affective state that is thought to exert
@@ -62,7 +62,6 @@ abstract: Mood is an integrative and diffuse affective state that is thought to 
   and action/inaction asymmetry. (PsycInfo Database Record (c) 2021 APA, all rights
   reserved)
 publication: '*Psychological Review*'
-url_pdf: https://doi.org/10.1037/rev0000294
 doi: 10.1037/rev0000294
 links:
 - name: URL

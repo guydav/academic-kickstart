@@ -2,7 +2,7 @@
 title: 'Sequential mastery of multiple visual tasks: Networks naturally learn to learn
   and forget to forget '
 date: '2020-06-01'
-publishDate: '2024-08-08T16:46:53.070438Z'
+publishDate: '2024-11-21T17:24:12.659106Z'
 authors:
 - Guy Davidson
 - Michael C. Mozer
@@ -24,11 +24,11 @@ abstract: We explore the behavior of a standard convolutional neural net in a co
   are attained simply through broader exposure to a domain.
 featured: false
 publication: '*The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*'
-url_pdf: https://arxiv.org/abs/1905.10837
+url_pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Davidson_Sequential_Mastery_of_Multiple_Visual_Tasks_Networks_Naturally_Learn_to_CVPR_2020_paper.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1905.10837
 - name: URL
-  url: https://arxiv.org/abs/1905.10837
+  url: https://ieeexplore.ieee.org/document/9157800
 ---
 

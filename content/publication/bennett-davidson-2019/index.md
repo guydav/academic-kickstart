@@ -1,7 +1,7 @@
 ---
 title: Momentum and mood in policy-gradient reinforcement learning
 date: '2019-01-01'
-publishDate: '2024-08-08T16:46:53.972635Z'
+publishDate: '2024-11-21T17:24:17.070085Z'
 authors:
 - Daniel Bennett
 - Guy Davidson

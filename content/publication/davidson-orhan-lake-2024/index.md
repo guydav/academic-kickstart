@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-08-08T16:46:54.795133Z'
+publishDate: '2024-11-21T17:24:17.812216Z'
 publication_types:
 - '2'
 abstract: Spatial relations, such as above, below, between, and containment, are important
